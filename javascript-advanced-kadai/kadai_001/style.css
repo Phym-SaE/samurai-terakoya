@@ -1,0 +1,38 @@
+/* 全体のスタイル */
+body {
+    font-size: 6em;
+    text-align: center;
+}
+
+/* タイマーのスタイル */
+.count {
+    margin: 0;
+    font-weight: bold;
+    color: #888888;
+}
+
+/* テキスト領域のスタイル */
+.wrap {
+    margin-top: 20px;
+    padding: 80px 40px;
+    background-color: #666666;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* 正しくタイプされた場合のテキスト */
+.typed {
+    color: lightgreen;
+}
+
+/* ミスタイプした場合の背景 */
+.mistyped {
+    background-color: red;
+}
+
+/* タイプカウントのスタイル */
+.typecount {
+    margin: 0;
+    padding: 20px 0;
+    color: #888888;
+}
