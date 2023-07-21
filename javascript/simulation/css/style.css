@@ -1,0 +1,33 @@
+html {
+    font-size: 100%;
+}
+.wrapper {
+    max-width: 1000px;
+    margin: 50px auto;
+}
+.result-area {
+    height: 300px;
+}
+
+#ten-btn, #ur-btn,
+.reset-btn {
+    width: 300px;
+    padding: 20px 40px;
+    margin-right: 30px;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    border: solid 1px #000000;
+}
+
+#ten-btn:hover, #ur-btn:hover, .reset-btn:hover {
+    background-color: bisque;
+}
+
+#ten-gacha {
+    height: 500px;
+}
+
+#ur-gacha {
+    height: 500px;
+}
+
