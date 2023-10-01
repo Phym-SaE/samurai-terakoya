@@ -1,3 +1,0 @@
-laravel-kadai
-samuraimart
-shopping site
